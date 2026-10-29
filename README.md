@@ -91,7 +91,7 @@ Subsequent Requests: File Exists (Served by Web Server)
 
 ## Compatibility
 
-Works with all caching solutions:
+Works with all caching solutions for static content:
 
 - ✅ W3 Total Cache
 - ✅ WP Rocket
